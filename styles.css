@@ -1,0 +1,58 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Color de fondo */
+  }
+  
+  /* Encabezado (header) */
+  header {
+    background-color: #333; /* Fondo oscuro */
+    color: #fff;            /* Texto blanco */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Navegación (nav) */
+  nav ul {
+    background-color: #444;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav ul li {
+    float: left;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li a {
+    display: block;
+    padding: 14px 20px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #666;
+  }
+  
+  /* Secciones */
+  section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff; /* Fondo blanco para destacar */
+    border-radius: 5px;
+  }
+  
+  /* Pies de página (footer) */
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
